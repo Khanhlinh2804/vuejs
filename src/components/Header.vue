@@ -1,4 +1,7 @@
-<script>
+<script setup>
+import { ref } from 'vue';
+
+
 
 </script>
 <template>
@@ -32,7 +35,7 @@
             </div>
             <div class="col-lg-3 ">
               <div class="d-flex justify-content-end">
-                <router-link  to="/" class="btn flex-row-reverse">
+                <router-link  to="/login" class="btn flex-row-reverse">
                     <div class="nav-icon">
                       <i class="bi bi-people-fill"></i>
                     </div>
@@ -40,6 +43,7 @@
                 <a href="" class="btn flex-row-reverse">
                   <div class="nav-icon">
                     <i class="bi bi-basket3-fill"></i>
+
                   </div>
                   <span class="position-absolute  start-70 translate-start badge rounded-pill bg-danger">
                     2 

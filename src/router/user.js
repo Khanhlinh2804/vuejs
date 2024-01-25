@@ -33,6 +33,16 @@ const user = [
             }
 
         ]
+    },
+    {
+        path: "/login",
+        name: "login",
+        component: () => import("../layouts/login.vue"),
+    },
+    {
+        path: "/register",
+        name: "register",
+        component: () => import("../layouts/register.vue"),
     }
 ];
 

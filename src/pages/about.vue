@@ -65,21 +65,6 @@ import Bigsale from '../layouts/big-sale.vue';
                     </div>
                 </div>
             </div>
-            <!-- <div class="row pm-5 ">
-                <div class="  about-1 pt-5 text-center  text-break ">
-                    <div class="overlay">
-                        <img src="../assets/image/about-01.jpg" alt="" srcset="" width="100%">
-                        <div class="pt-4 fw-bold">
-                            <h5 class="font-family-Kaushan-Script color-red home-text-top ">
-                                Limited-Time Offer
-                            </h5>
-                            <p class=" home-text-top2 lh-1 ">
-                                We've Scoured The Market For The Finest Products, Establishing Partnerships With Trusted Brands That Share Our Commitment To Excellence!
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
         </div>
         <div class="row pt-5">
             <div class="col-lg-6 col-sm-12 pt-5">

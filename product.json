@@ -11,7 +11,7 @@
                     "price": "22.990.000",
                     "sale": "21.290.000",
                     "quantity": "50",
-                    "image": [
+                    "image":[
                         {
                             "image01": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/7/638137864183879681_msi-gaming-gf63-thin-11uc-den-1.jpg",
                             "image02": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/3/7/638137864183879681_msi-gaming-gf63-thin-11uc-den-1.jpg",
@@ -274,8 +274,8 @@
             "status": 1,
             "product": [
                 {
-                    "id": "13",
-                    "name": "iPad Pro 12.9 2022 M2 WiFi 256GB",
+                    "id": "iPad Pro 12.9 2022 M2 WiFi 256GB",
+                    "name": "iPhone 15 Pro Max 256GB",
                     "price": "31.990.000",
                     "sale": "28.490.000",
                     "quantity": "50",
@@ -294,7 +294,7 @@
                     ]
                 },
                 {
-                    "id": "14",
+                    "id": "iPad Air 4th Gen WiFi 64GB",
                     "name": "iPad Air 4th Gen WiFi 64GB",
                     "price": "13.990.000",
                     "sale": "12.490.000",
@@ -314,7 +314,7 @@
                     ]
                 },
                 {
-                    "id": "15",
+                    "id": "iPad Mini 6th Gen Cellular 256GB",
                     "name": "iPad Mini 6th Gen Cellular 256GB",
                     "price": "19.990.000",
                     "sale": "17.490.000",
@@ -334,7 +334,7 @@
                     ]
                 },
                 {
-                    "id": "16",
+                    "id": "iPad Pro 11 2022 M2 WiFi + Cellular 512GB",
                     "name": "iPad Pro 11 2022 M2 WiFi + Cellular 512GB",
                     "price": "35.990.000",
                     "sale": "33.490.000",
@@ -353,7 +353,9 @@
                         }
                     ]
                 }
+
             ]
         }
+
     ]
 }
